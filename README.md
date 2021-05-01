@@ -1,34 +1,53 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+<p align="center">
+  <img width="250" height="250" src="https://github.com/CarvalhoNathan/nlw5-podcastr/blob/main/public/logo.svg">
+</p>
 
-## Getting Started
+## 💻  Sobre o projeto
 
-First, run the development server:
+Podcastr é uma aplicação web desenvolvida na trilha ReactJs da NLW#5 | Rockeseat. Nessa edição foi construído uma aplicação podcast. Nessa NLW, aprendi alguns conceitos sobre algumas ferramentas e tecnologias como React, NextJs, Typescript, Context api, Sass, css-modules, data-fns, rc-slider, json-server e etc.
 
-```bash
-npm run dev
-# or
-yarn dev
-```
+<p align="center">
+  <img src="https://github.com/CarvalhoNathan/nlw5-podcastr/blob/main/public/screenshot-podcastr.png">
+</p>
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## 🧪  Tecnologias
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+Tecnologias usadas nesse projeto foram:
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
+-   [Next.js](https://nextjs.org/)
+-   [React](https://reactjs.org/)
+-   [TypeScript](https://www.typescriptlang.org/)
+-   [SASS](https://sass-lang.com/)
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+Ferramentas utilizadas:
 
-## Learn More
+-   [css-Modules](https://github.com/css-modules/css-modules)
+-   [sass](https://sass-lang.com/)
+-   [date-fns](https://github.com/date-fns/date-fns)
+-   [rc-slider](https://www.npmjs.com/package/rc-slider)
+-   [json-server](https://github.com/typicode/json-server)
 
-To learn more about Next.js, take a look at the following resources:
+## 🚀  Como usar
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+Siga as instruções as etapas para fazer um clone e configurara o projeto localmente.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+Clone o projeto e acesse a pasta
 
-## Deploy on Vercel
+    $ git clone https://github.com/CarvalhoNathan/nlw5-podcastr && cd nlw5-podcast
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+#### Faça os seguintes passos
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+    # Instale as dependências
+    $ yarn
+    
+    # Rodar o JSON server
+    $ yarn server
+    
+    # Execute a aplicação
+    $ yarn dev
+    
+<p align="center">
+  Projected by Nathan Carvalho with 🖤</b>
+  <br>
+  Readme inspired by <a href="https://github.com/guilhermecapitao"> Guilherme Capitão </a> <br>
+</p>
